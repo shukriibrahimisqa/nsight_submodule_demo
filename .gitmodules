@@ -5,3 +5,4 @@
 [submodule "ns_widgets_demo"]
 	path = ns_widgets_demo
 	url = https://github.com/shukriibrahimisqa/ns_widgets_demo
+	branch = main
