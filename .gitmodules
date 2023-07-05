@@ -6,3 +6,11 @@
 	path = ns_widgets_demo
 	url = https://github.com/shukriibrahimisqa/ns_widgets_demo
 	branch = main
+[submodule "ns_login_demo"]
+	path = ns_login_demo
+    url = https://github.com/shukriibrahimisqa/ns_login_demo.git
+	branch = main
+[submodule "ns_provider_demo"]
+	path = ns_provider_demo
+    url = https://github.com/shukriibrahimisqa/ns_provider_demo.git
+	branch = main

@@ -30,7 +30,12 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
+  ns_widgets_demo:
+    path: ./ns_widgets_demo
+  ns_login_demo:
+    path: ./ns_login_demo
+  ns_dashboard_demo:
+    path: ./ns_dashboard_demo
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
