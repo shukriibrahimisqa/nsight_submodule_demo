@@ -1,9 +1,12 @@
 import 'package:flutter/material.dart';
-import 'package:ns_login_demo/login_screen.dart';
 import 'package:nsight_submodule_demo/splash/splash_screen.dart';
 
+
+String appbartittle = "";
 void main() {
   runApp(const MyApp());
+
+
 }
 
 class MyApp extends StatelessWidget {

@@ -32,8 +32,8 @@ dependencies:
     sdk: flutter
   ns_widgets_demo:
     path: ./ns_widgets_demo
-  ns_login_demo:
-    path: ./ns_login_demo
+  ns_provider_demo:
+    path: ./ns_provider_demo
   ns_dashboard_demo:
     path: ./ns_dashboard_demo
 
